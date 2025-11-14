@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Logo" width="400">
+</p>
+
+
 # Microprocessors Laboratory
 ## ECE NTUA - Flow Y: Computer Systems - 7th Semester
 ## Academic Year 2024–25
