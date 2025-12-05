@@ -2,7 +2,6 @@
   <img src="assets/logo.png" alt="Logo" width="400">
 </p>
 
-
 # Microprocessors Laboratory
 ## ECE NTUA - Flow Y: Computer Systems - 7th Semester
 ## Academic Year 2024–25
@@ -16,3 +15,5 @@ The course focuses on embedded programming using an AVR microcontroller on a cus
 
 It explores key microcontroller features such as interrupts and hardware timers, and covers interfacing with various peripherals including ADCs, LCD displays, PCA9555 I/O expanders, keyboards, and temperature sensors, as well as communication protocols like the Two-Wire Serial Interface (TWI/I²C).
 
+### Bonus Assignment
+The bonus assignment completed by **Οδυσσέας Αρθούρος Ρήγας Τσουκνίδας** can be found [here](https://github.com/odysseastsouknidas/ntua-microprocessors-lab-bonus.git).
